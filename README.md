@@ -1,3 +1,5 @@
+- http://aad.tpu.ru/1955/Java%20books/Java%209%20Cookbook.pdf
+
 # Java 9 Cookbook
 This is the code repository for [Java 9 Cookbook](https://www.packtpub.com/application-development/java-9-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786461407), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
